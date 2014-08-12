@@ -7,8 +7,7 @@ C Programming Notes
 
 I'd like to review programming in C.
 
-```c
-
+{% highlight c %}
 #include <stdio.h>
 int main(void)                /* a simple program             */
 {
@@ -21,5 +20,4 @@ int main(void)                /* a simple program             */
 
     return 0;
 }
-
-```
+{% endhighlight %}
