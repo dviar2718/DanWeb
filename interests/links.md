@@ -39,7 +39,12 @@ https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf
 Per the author "a simple, intuitive introduction into the concepts of machine learning."
 For Undergrads...
 
+A Course in Machine Learning by Hal Daume 2012
+http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf
 
+##Matlab Machine Learning books
+A First Course in Machine Learning
+http://www.dcs.gla.ac.uk/~srogers/firstcourseml/#matlab
 
 -------------------------------------
 
