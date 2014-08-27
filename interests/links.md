@@ -1,24 +1,12 @@
 #To Do List
-- pluralsight Python Fundamentals
-- pluralsight Python Beyond The Basics
-- pluralsight Python Unit Testing
-- pluralsight The Python Developers Toolkit
+- [Pluralsight - Python Fundamentals](http://pluralsight.com/training/Courses/Description/python-fundamentals)
+- [Pluralsight - Python Beyond The Basics](http://pluralsight.com/training/Courses/TableOfContents/python-fundamentals)
+- [Pluralsight - Unit Testing with Python](http://pluralsight.com/training/Courses/TableOfContents/unit-testing-python)
+- [Pluralsight - The Python Developers Toolkit](http://pluralsight.com/training/Courses/TableOfContents/python-developers-toolkit)
+- [Lynda – Python GUI Development with Tkinter](http://www.lynda.com/Tkinter-tutorials/Python-GUI-Development-Tkinter/163607-2.html)
 - 
 
-# Ebooks
-http://tutgfx.com/
 
-http://www.it-ebooks.info/
-
-http://ebooks-it.org/
-
-http://www.joinebook.com/
-
-http://ebookee.org/
-
-http://sharebookfree.com/
-
-http://ulbook.org/
 
 -------------------------------------
 # Things to get:
