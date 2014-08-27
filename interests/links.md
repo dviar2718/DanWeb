@@ -4,7 +4,8 @@
 - [Pluralsight - Unit Testing with Python](http://pluralsight.com/training/Courses/TableOfContents/unit-testing-python)
 - [Pluralsight - The Python Developers Toolkit](http://pluralsight.com/training/Courses/TableOfContents/python-developers-toolkit)
 - [Lynda – Python GUI Development with Tkinter](http://www.lynda.com/Tkinter-tutorials/Python-GUI-Development-Tkinter/163607-2.html)
-- 
+
+
 
 
 
