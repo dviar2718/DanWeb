@@ -11,7 +11,8 @@
 
 -------------------------------------
 # Things to get:
-- R for Everyone Advanced Analytics and Graphics (Jared P. Lander)
+- [R for Everyone: Advanced Analytics and Graphics](http://www.jaredlander.com/r-for-everyone/)
+
 
 -------------------------------------
 
