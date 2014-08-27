@@ -1,10 +1,17 @@
-#To Do List
+#Master ToDo List
+- 
+
+#ToDo List - Python
 - [Pluralsight - Python Fundamentals](http://pluralsight.com/training/Courses/Description/python-fundamentals)
 - [Pluralsight - Python Beyond The Basics](http://pluralsight.com/training/Courses/TableOfContents/python-fundamentals)
 - [Pluralsight - Unit Testing with Python](http://pluralsight.com/training/Courses/TableOfContents/unit-testing-python)
 - [Pluralsight - The Python Developers Toolkit](http://pluralsight.com/training/Courses/TableOfContents/python-developers-toolkit)
 - [Lynda – Python GUI Development with Tkinter](http://www.lynda.com/Tkinter-tutorials/Python-GUI-Development-Tkinter/163607-2.html)
 
+#ToDo List - R
+- [Introduction to Data Science Free Electronic Textbook with Introduction to R](http://jsresearch.net/)
+- [Springer The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+- 
 
 
 
@@ -14,6 +21,8 @@
 - [R for Everyone: Advanced Analytics and Graphics](http://www.jaredlander.com/r-for-everyone/)
 - [High Performance Python Practical Performant Programming for Humans](http://shop.oreilly.com/product/0636920028963.do)
 - [Video: Working with Algorithms in Python Design Strategies + Effective Data Modeling = Efficient Code](http://shop.oreilly.com/product/110000667.do)
+- [Packt Building Probabilistic Graphical Models with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-probabilistic-graphical-models-python)
+- [Code School Mastering GitHub](https://www.codeschool.com/courses/mastering-github)
 
 ## Not yet released:
 - [Oreilly Python for Finance Analyze Big Financial Data](http://shop.oreilly.com/product/0636920032441.do)
@@ -22,6 +31,8 @@
 - [Oreilly Learning Spark Lightning-Fast Big Data Analytics](http://shop.oreilly.com/product/0636920028512.do)
 - [Oreilly Data Algorithms Recipes for Scaling up with Hadoop and Spark](http://shop.oreilly.com/product/0636920033950.do)
 - [Oreilly Cython A Guide for Python Programmers](http://shop.oreilly.com/product/0636920033431.do)
+- [Oreilly Thoughtful Machine Learning A Test-Driven Approach](http://shop.oreilly.com/product/0636920032298.do)
+
 
 -------------------------------------
 
