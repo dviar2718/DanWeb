@@ -15,7 +15,7 @@ http://ulbook.org/
 
 -------------------------------------
 # Things to get:
-
+- R for Everyone Advanced Analytics and Graphics (Jared P. Lander)
 
 -------------------------------------
 
@@ -27,7 +27,10 @@ http://home.wlu.edu/~lambertk/pythontojava/index.htm
 # Data Science Resources
 http://datasciencetoolbox.org/
 
+http://www.john-foreman.com/blog
+
 http://www.zipfianacademy.com/blog/post/46864003608/a-practical-intro-to-data-science
+
 
 -------------------------------------
 # Machine Learning
