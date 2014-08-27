@@ -1,3 +1,10 @@
+#To Do List
+- pluralsight Python Fundamentals
+- pluralsight Python Beyond The Basics
+- pluralsight Python Unit Testing
+- pluralsight The Python Developers Toolkit
+- 
+
 # Ebooks
 http://tutgfx.com/
 
@@ -48,6 +55,11 @@ http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf
 ##Matlab Machine Learning books
 A First Course in Machine Learning
 http://www.dcs.gla.ac.uk/~srogers/firstcourseml/#matlab
+
+##Books to read
+
+http://www.data-science-for-biz.com
+
 
 -------------------------------------
 
