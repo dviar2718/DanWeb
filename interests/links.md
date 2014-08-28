@@ -11,7 +11,7 @@
 #ToDo List - R
 - [Introduction to Data Science Free Electronic Textbook with Introduction to R](http://jsresearch.net/)
 - [Springer The Elements of Statistical Learning: Data Mining, Inference, and Prediction](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
-- 
+
 
 
 
@@ -75,3 +75,12 @@ http://www.data-science-for-biz.com
 
 # C Programming
 http://c.learncodethehardway.org/book/ex9.html
+
+-------------------------------------
+
+# Completed
+####8/28/2014
+- Read first chapter of [Manning Kanban in Action](http://www.manning.com/hammarberg/)
+
+
+
