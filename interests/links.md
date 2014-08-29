@@ -37,16 +37,13 @@
 -------------------------------------
 
 # Python
-Python to Java Translation
-http://home.wlu.edu/~lambertk/pythontojava/index.htm
+- [Python to Java Translation](http://home.wlu.edu/~lambertk/pythontojava/index.htm)
 
 -------------------------------------
 # Data Science Resources
-http://datasciencetoolbox.org/
-
-http://www.john-foreman.com/blog
-
-http://www.zipfianacademy.com/blog/post/46864003608/a-practical-intro-to-data-science
+- [Data Science Toolbox - A virtual environment for data science](http://datasciencetoolbox.org/)  This uses Vagrant and an Ubuntu Virtual Machine with Virtual Box.
+- [John Foreman's Blog](http://www.john-foreman.com/blog)
+- [A Practical Introduction to Data Science](http://www.zipfianacademy.com/blog/post/46864003608/a-practical-intro-to-data-science)
 
 
 -------------------------------------
@@ -54,17 +51,15 @@ http://www.zipfianacademy.com/blog/post/46864003608/a-practical-intro-to-data-sc
 
 ##Free Books:
 
-A First Encounter with Machine Learning by Max Welling 2011
-https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf
-Per the author "a simple, intuitive introduction into the concepts of machine learning."
-For Undergrads...
-
-A Course in Machine Learning by Hal Daume 2012
-http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf
+-  [A First Encounter with Machine Learning by Max Welling 2011 (only 80 pages)](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) Per the author "a simple, intuitive introduction into the concepts of machine learning." For Undergrads...
+-  [A Course in Machine Learning by Hal Daume 2012](http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf) Looks promising still under development?
+-  [](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/250214.pdf)
 
 ##Matlab Machine Learning books
-A First Course in Machine Learning
-http://www.dcs.gla.ac.uk/~srogers/firstcourseml/#matlab
+- [A First Course in Machine Learning](http://www.dcs.gla.ac.uk/~srogers/firstcourseml/#matlab)
+- [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/250214.pdf)
+- [Machine Learning A Probabilistic Perspective by Murphy](http://www.cs.ubc.ca/~murphyk/MLbook/)
+
 
 ##Books to read
 
@@ -78,7 +73,27 @@ http://c.learncodethehardway.org/book/ex9.html
 
 -------------------------------------
 
+#Statistics Books 
+- [Modern Statistics for the Social and Behavioral Sciences: A Practical Introduction](http://www.crcpress.com/product/isbn/9781439834565)
+- [Introduction to Statistical Thought (free book uses R)](http://www.math.umass.edu/~lavine/Book/book.html)
+- [Introduction to Probability and Statistics Using R](http://ipsur.org/install.html) or [here](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) or [2nd Edition on GitHub](https://github.com/gjkerns/IPSUR)
+- [Learning Statistics Using R](http://www.amazon.com/Learning-Statistics-Randall-Ernest-Schumacker/dp/1452286299)
+- [Understanding Statistics Using R](http://www.amazon.com/dp/1461462266/ref=rdr_ext_tmb)
+- [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) (or is this a Machine Learning book?)
+
+##Statistics Videos/Courses
+- [Coursera Course - Statistics: Making Sense of Data](https://class.coursera.org/introstats-001)
+
+
+-------------------------------------
+
 # Completed
+
+####8/29/2014
+- Read the first couple of chapters for free of [Modern Statistics for the Social and Behavioral Sciences: A Practical Introduction](http://www.crcpress.com/product/isbn/9781439834565).  This looks like it could be worth a read.  What's wrong with mean?
+- Read through some free Stats Books on R.  In particular: [Introduction to Statistical Thought (free book uses R)](http://www.math.umass.edu/~lavine/Book/book.html) and [Introduction to Probability and Statistics Using R](http://ipsur.org/install.html)
+- Read second chapter of [Manning Kanban in Action](http://www.manning.com/hammarberg/)
+
 ####8/28/2014
 - Read first chapter of [Manning Kanban in Action](http://www.manning.com/hammarberg/)
 
