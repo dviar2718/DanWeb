@@ -80,10 +80,14 @@ http://c.learncodethehardway.org/book/ex9.html
 - [Learning Statistics Using R](http://www.amazon.com/Learning-Statistics-Randall-Ernest-Schumacker/dp/1452286299)
 - [Understanding Statistics Using R](http://www.amazon.com/dp/1461462266/ref=rdr_ext_tmb)
 - [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) (or is this a Machine Learning book?)
+- [Introduction to Python for Econometrics, Statistics and Data Analysis by Kevin Sheppard](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)  _These notes are designed for someone new to statistical computing wishing to develop a set of skills necessary to perform original research using Python._ Other goodies can be found [here](http://www.kevinsheppard.com/Python_for_Econometrics).
+- [Think Stats](http://greenteapress.com/thinkstats/)
+- 
 
 ##Statistics Videos/Courses
 - [Coursera Course - Statistics: Making Sense of Data](https://class.coursera.org/introstats-001)
-
+- [Lynda.com R Statistics Essential Training with Barton Poulson](http://www.lynda.com/R-tutorials/R-Statistics-Essential-Training/142447-2.html)
+- [Lynda.com Up and Running with R with Barton Poulson](http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html)
 
 -------------------------------------
 
