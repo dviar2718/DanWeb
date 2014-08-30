@@ -82,7 +82,8 @@ http://c.learncodethehardway.org/book/ex9.html
 - [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) (or is this a Machine Learning book?)
 - [Introduction to Python for Econometrics, Statistics and Data Analysis by Kevin Sheppard](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)  _These notes are designed for someone new to statistical computing wishing to develop a set of skills necessary to perform original research using Python._ Other goodies can be found [here](http://www.kevinsheppard.com/Python_for_Econometrics).
 - [Think Stats](http://greenteapress.com/thinkstats/)
-- 
+- [Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/index.html) Upper Austrian University of Applied Sciences, Thomas Haslwanter
+
 
 ##Statistics Videos/Courses
 - [Coursera Course - Statistics: Making Sense of Data](https://class.coursera.org/introstats-001)
