@@ -1,6 +1,3 @@
-#Master ToDo List
-- 
-
 #ToDo List - Python
 - [Pluralsight - Python Fundamentals](http://pluralsight.com/training/Courses/Description/python-fundamentals)
 - [Pluralsight - Python Beyond The Basics](http://pluralsight.com/training/Courses/TableOfContents/python-fundamentals)
@@ -83,6 +80,8 @@ http://c.learncodethehardway.org/book/ex9.html
 - [Introduction to Python for Econometrics, Statistics and Data Analysis by Kevin Sheppard](http://www.kevinsheppard.com/images/0/09/Python_introduction.pdf)  _These notes are designed for someone new to statistical computing wishing to develop a set of skills necessary to perform original research using Python._ Other goodies can be found [here](http://www.kevinsheppard.com/Python_for_Econometrics).
 - [Think Stats](http://greenteapress.com/thinkstats/)
 - [Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/index.html) Upper Austrian University of Applied Sciences, Thomas Haslwanter
+- [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers by Cam Davidson Pilon](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) On [GitHub](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
 
 
 ##Statistics Videos/Courses
