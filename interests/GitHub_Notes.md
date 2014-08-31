@@ -5,7 +5,7 @@
 4. "git commit -m "description of change""
 5. "git remote add DanWeb https://github.com/dviar2718/DanWeb.git"
 6. "git push -u DanWeb gh-pages"
-7. "git pull"
+7. "git pull DanWeb gh-pages"
 
 
 ###Clone a Repo
@@ -110,5 +110,16 @@ Branch gh-pages set up to track remote branch gh-pages from DanWeb.
 ```
 ###If a change is made somewhere else, use "git pull" to get a fresh copy
 ```bash
-
+$git pull DanWeb gh-pages
+remote: Counting objects: 4, done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 4 (delta 3), reused 0 (delta 0)
+Unpacking objects: 100% (4/4), done.
+From https://github.com/dviar2718/DanWeb
+ * branch            gh-pages   -> FETCH_HEAD
+   8e2b4f1..b782337  gh-pages   -> DanWeb/gh-pages
+Updating 8e2b4f1..b782337
+Fast-forward
+ interests/GitHub_Notes.md | 28 +++++++++++++++++++++-------
+ 1 file changed, 21 insertions(+), 7 deletions(-)
 ```
