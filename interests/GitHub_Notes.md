@@ -1,4 +1,14 @@
-1. Clone a Repo
+#Overview
+1. Initially, "git clone ..."
+2. Make changes, then "git add ."
+3. "git status"
+4. "git commit -m "description of change""
+5. "git remote add DanWeb https://github.com/dviar2718/DanWeb.git"
+6. "git push -u DanWeb gh-pages"
+7. "git pull"
+
+
+###Clone a Repo
 First navigate to the directory where you want the repo to be located
 ```bash
 $pwd
@@ -12,7 +22,7 @@ Receiving objects: 100% (161/161), 24.65 KiB | 0 bytes/s, done.
 Resolving deltas: 100% (62/62), done.
 Checking connectivity... done
 ```
-2. Add your project files or make changes.
+###Add your project files or make changes.
 ```bash
 $ls -ltr
 total 0
@@ -42,7 +52,7 @@ $mkdir python
 $cd python/
 $touch pluralsight_python_fundamentals_notes.md
 ```
-3. Use "git add ." to add all of your changes
+###Use "git add ." to add all of your changes
 ```bash
 $pwd
 /Users/dlviar/win7/github/DanWeb/interests/python
@@ -57,7 +67,7 @@ add 'interests/GitHub_Notes.md'
 add 'interests/python/pluralsight_python_fundamentals_notes.md'
 $git add .
 ```
-4. Use "git status" to see what needs to be commited
+###Use "git status" to see what needs to be commited
 ```bash
 $git status
 # On branch gh-pages
@@ -69,7 +79,7 @@ $git status
 #
 ```
 
-5. Commit your changes with "git commit"
+###Commit your changes with "git commit"
 ```bash
 $git commit -m "add python folder under interests and GitHub_Notes.md"
 [gh-pages 6679be5] add python folder under interests and GitHub_Notes.md
@@ -78,11 +88,11 @@ $git commit -m "add python folder under interests and GitHub_Notes.md"
  create mode 100644 interests/python/pluralsight_python_fundamentals_notes.md
 ```
 
-6. Add the remote repo
+###Add the remote repo
 ```bash
 $git remote add DanWeb https://github.com/dviar2718/DanWeb.git
 ```
-7. Push your changes to the correct branch (here the branch is gh-pages)
+###Push your changes to the correct branch (here the branch is gh-pages)
 ```bash
 $git push -u DanWeb gh-pages
 error: git-credential-osxkeychain died of signal 11
@@ -97,4 +107,8 @@ Total 6 (delta 1), reused 0 (delta 0)
 To https://github.com/dviar2718/DanWeb.git
    09798a6..6679be5  gh-pages -> gh-pages
 Branch gh-pages set up to track remote branch gh-pages from DanWeb.
+```
+###If a change is made somewhere else, use "git pull" to get a fresh copy
+```bash
+
 ```
