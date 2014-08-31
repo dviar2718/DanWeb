@@ -71,5 +71,30 @@ $git status
 
 5. Commit your changes with "git commit"
 ```bash
+$git commit -m "add python folder under interests and GitHub_Notes.md"
+[gh-pages 6679be5] add python folder under interests and GitHub_Notes.md
+ 2 files changed, 75 insertions(+)
+ create mode 100644 interests/GitHub_Notes.md
+ create mode 100644 interests/python/pluralsight_python_fundamentals_notes.md
+```
 
+6. Add the remote repo
+```bash
+$git remote add DanWeb https://github.com/dviar2718/DanWeb.git
+```
+7. Push your changes to the correct branch (here the branch is gh-pages)
+```bash
+$git push -u DanWeb gh-pages
+error: git-credential-osxkeychain died of signal 11
+Username for 'https://github.com': dviar2718
+Password for 'https://dviar2718@github.com': 
+error: git-credential-osxkeychain died of signal 11
+Counting objects: 8, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (6/6), 1.37 KiB | 0 bytes/s, done.
+Total 6 (delta 1), reused 0 (delta 0)
+To https://github.com/dviar2718/DanWeb.git
+   09798a6..6679be5  gh-pages -> gh-pages
+Branch gh-pages set up to track remote branch gh-pages from DanWeb.
 ```
