@@ -90,6 +90,12 @@ http://c.learncodethehardway.org/book/ex9.html
 - [Lynda.com Up and Running with R with Barton Poulson](http://www.lynda.com/R-tutorials/Up-Running-R/120612-2.html)
 
 -------------------------------------
+##git and GitHub
+- [Pro Git Book](http://git-scm.com/book)
+- [gitimmersion](http://gitimmersion.com/)
+- [Fetching a Remote](https://help.github.com/articles/fetching-a-remote)
+
+-------------------------------------
 
 # Completed
 
