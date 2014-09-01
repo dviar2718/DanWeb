@@ -1,11 +1,6 @@
----
-layout: default
----
-
-
 # Notes from [Pluralsight - Python Fundamentals](http://pluralsight.com/training/Courses/Description/python-fundamentals)
 
-*   [Python uses Duck Typing](#duck)
+*   [Python uses Duck Typing](#python-uses-duck-typing)
 *   [REPL](#repl)
     *   [Underscore refers to the most recent calculation](#underscore)
     *   [How to Exit the REPL](#exit_repl)
@@ -16,7 +11,7 @@ layout: default
 *   [Loops and Conditionals](#loops)
 
 
-<h2 id="duck">Python uses Duck Typing</h2>
+## Python uses Duck Typing
 
 <h3 id="philosophy">Philosophy</h3>
 
@@ -65,7 +60,7 @@ Python is coding as Guido ~~intended~~ **indented** it.
 - ```from math import factorial```
 - ```from math import factorial as fac```
 
-<h2 id="type">Types</h2>
+## Types
 <ul style="list-style-type:square">
   <li>
     <dl>
