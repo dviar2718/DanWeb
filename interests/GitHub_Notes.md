@@ -1,11 +1,11 @@
 #Overview
-1. Initially, "git clone ..."
-2. Make changes, then "git add ."
-3. "git status"
-4. "git commit -m "description of change""
-5. "git remote add DanWeb https://github.com/dviar2718/DanWeb.git"
-6. "git push -u DanWeb gh-pages"
-7. "git pull DanWeb gh-pages"
+1. Initially, ```bash git clone ...```
+2. Make changes, then ```bash git add .```
+3. ```bash git status```
+4. ```bash git commit -m "description of change"```
+5. ```bash git remote add DanWeb https://github.com/dviar2718/DanWeb.git```
+6. ```bash git push -u DanWeb gh-pages```
+7. ```bash git pull DanWeb gh-pages```
 
 
 ###Clone a Repo
