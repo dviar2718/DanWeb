@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Notes from [Pluralsight - Python Fundamentals](http://pluralsight.com/training/Courses/Description/python-fundamentals)
 
 *   [Python uses Duck Typing](#duck)
