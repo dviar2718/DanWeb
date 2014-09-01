@@ -52,7 +52,7 @@ $mkdir python
 $cd python/
 $touch pluralsight_python_fundamentals_notes.md
 ```
-###Use "git add ." to add all of your changes
+###Use ```bash git add .``` to add all of your changes
 ```bash
 $pwd
 /Users/dlviar/win7/github/DanWeb/interests/python
@@ -67,7 +67,7 @@ add 'interests/GitHub_Notes.md'
 add 'interests/python/pluralsight_python_fundamentals_notes.md'
 $git add .
 ```
-###Use "git status" to see what needs to be commited
+###Use ```bash git status``` to see what needs to be commited
 ```bash
 $git status
 # On branch gh-pages
@@ -79,7 +79,7 @@ $git status
 #
 ```
 
-###Commit your changes with "git commit"
+###Commit your changes with ```bash git commit```
 ```bash
 $git commit -m "add python folder under interests and GitHub_Notes.md"
 [gh-pages 6679be5] add python folder under interests and GitHub_Notes.md
@@ -108,7 +108,7 @@ To https://github.com/dviar2718/DanWeb.git
    09798a6..6679be5  gh-pages -> gh-pages
 Branch gh-pages set up to track remote branch gh-pages from DanWeb.
 ```
-###If a change is made somewhere else, use "git pull" to get a fresh copy
+###If a change is made somewhere else, use ```bash git pull``` to get a fresh copy
 ```bash
 $git pull DanWeb gh-pages
 remote: Counting objects: 4, done.
