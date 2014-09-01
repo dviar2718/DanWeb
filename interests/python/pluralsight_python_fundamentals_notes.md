@@ -3,17 +3,15 @@
 *   [Python uses Duck Typing](#python-uses-duck-typing)
 *   [REPL](#repl)
     *   [Underscore refers to the most recent calculation](#underscore)
-    *   [How to Exit the REPL](#exit_repl)
+    *   [How to Exit the REPL](#exit-repl)
 *   [Style](#style)
 *   [Help](#help)
 *   [Import](#import)
 *   [Types](#types)
-*   [Loops and Conditionals](#loops)
+*   [Loops and Conditionals](#loops-and-conditionals)
 
 
 ## Python uses Duck Typing
-
-<h3 id="philosophy">Philosophy</h3>
 
 From [Wikipedia](http://en.wikipedia.org/wiki/Duck_typing):
 
@@ -22,10 +20,9 @@ From [Wikipedia](http://en.wikipedia.org/wiki/Duck_typing):
 *When I see a bird that walks like a duck and swims like a duck and quacks like a duck, I call that bird a duck.[1]*
 
 
+## REPL
 
-<h2 id="repl">REPL (Read, Evaluate, Print, Loop)</h2>
-
-<h3 id="underscore">Philosophy</h3>
+### Underscore
 
 In the REPL, an underscore refers to the most recent calculation.  Here's an example:
 ```python
@@ -35,19 +32,22 @@ In the REPL, an underscore refers to the most recent calculation.  Here's an exa
 >>> _ + 3
 13
 ```
-<h3 id="exit_repl">How to exit the REPL:</h3>
+### Exit REPL
+
 How to exit the REPL:
 - On Windows ```Ctrl+Z```
 - On Mac OS X or Linux ```Ctrl+D```
 - On all ```quit()```
 - NOTE: On Mac OS X or Linux ```Ctrl+Z``` will suspend the python process, use ```fg``` to bring it back
 
-<h2 id="style">Style</h2>
+## Style
+
 Python is coding as Guido ~~intended~~ **indented** it.
 - [PEP 8 -- Style Guide for Python Code](http://legacy.python.org/dev/peps/pep-0008/)
 - [PEP 20 -- The Zen of Python](http://legacy.python.org/dev/peps/pep-0020/)
 
-<h2 id="help">How to get help</h2>
+## Help
+
 - At the REPL, type ```help```
 - ```help()``` to get interactive help ```q``` to quit
 - ```help(math)``` to get help on module math
@@ -55,7 +55,8 @@ Python is coding as Guido ~~intended~~ **indented** it.
 - ```dir(math)``` list of objects in math module
 - ```dir()``` return the names in the current scope
 
-<h2 id="import">How to use import</h2>
+## Import
+
 - ```import math```
 - ```from math import factorial```
 - ```from math import factorial as fac```
@@ -122,7 +123,8 @@ False
 True
 ```
 
-<h2 id="loops">Loops and Conditionals</h2>
+## Loops and Conditionals
+
 - [if, elif, else](https://github.com/dviar2718/DanWeb/blob/gh-pages/interests/python/sample_code/conditional.py)
 - [while count down](https://github.com/dviar2718/DanWeb/blob/gh-pages/interests/python/sample_code/while_count_down.py)
 - [while to run script more than once](https://github.com/dviar2718/DanWeb/blob/gh-pages/interests/python/sample_code/while_sum_digits.py)
