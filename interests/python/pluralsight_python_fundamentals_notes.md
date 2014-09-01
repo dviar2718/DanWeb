@@ -8,6 +8,7 @@
 *   [Help](#help)
 *   [Import](#import)
 *   [Types](#types)
+*   [Loops and Conditionals](#loops)
 
 
 <h2 id="duck">Python uses Duck Typing</h2>
@@ -51,6 +52,8 @@ Python is coding as Guido ~~intended~~ **indented** it.
 - ```help()``` to get interactive help ```q``` to quit
 - ```help(math)``` to get help on module math
 - ```help(math.factorial)``` to get help on the factorial function in module math
+- ```dir(math)``` list of objects in math module
+- ```dir()``` return the names in the current scope
 
 <h2 id="import">How to use import</h2>
 - ```import math```
@@ -119,3 +122,9 @@ False
 True
 ```
 
+<h2 id="loops">Loops and Conditionals</h2>
+- [if, elif, else](https://github.com/dviar2718/DanWeb/blob/gh-pages/interests/python/sample_code/conditional.py)
+- [while count down](https://github.com/dviar2718/DanWeb/blob/gh-pages/interests/python/sample_code/while_count_down.py)
+- [while to run script more than once](https://github.com/dviar2718/DanWeb/blob/gh-pages/interests/python/sample_code/while_sum_digits.py)
+- You can break out of an infinite loop in the REPL with <code>Ctrl+C</code>
+- The <code>break</code> keyword terminates the innermost loop, transferring execution to the first statement after the loop.  Here is an [example](https://github.com/dviar2718/DanWeb/blob/gh-pages/interests/python/sample_code/while_with_break.py).
