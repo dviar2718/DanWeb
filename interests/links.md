@@ -81,6 +81,8 @@ http://c.learncodethehardway.org/book/ex9.html
 - [Think Stats](http://greenteapress.com/thinkstats/)
 - [Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/index.html) Upper Austrian University of Applied Sciences, Thomas Haslwanter
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers by Cam Davidson Pilon](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) On [GitHub](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+- [Statistics 4th Edition by Freedman](http://books.wwnorton.com/books/Statistics/)
+- [Introduction to Statistics Through Resampling Methods and R, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118428218.html)
 
 
 
