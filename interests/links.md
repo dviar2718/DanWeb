@@ -99,6 +99,13 @@ http://c.learncodethehardway.org/book/ex9.html
 
 # Completed
 
+####8/30/2014 - 9/1/2014
+- Started reading [Statistics in a Nutshell](http://shop.oreilly.com/product/9780596510497.do)
+- Finish 3rd Chapter of [Kanban in Action](http://www.manning.com/hammarberg/)
+- Create [GitHub_Notes.md](https://github.com/dviar2718/DanWeb/blob/gh-pages/interests/GitHub_Notes.md)
+- Watch First two modules of [Pluralsight - Python Fundamentals](http://pluralsight.com/training/Courses/Description/python-fundamentals)
+- Create [pluralsight_python_fundamentals_notes.md](https://github.com/dviar2718/DanWeb/blob/gh-pages/interests/python/pluralsight_python_fundamentals_notes.md).
+
 ####8/29/2014
 - Read the first couple of chapters for free of [Modern Statistics for the Social and Behavioral Sciences: A Practical Introduction](http://www.crcpress.com/product/isbn/9781439834565).  This looks like it could be worth a read.  What's wrong with mean?
 - Read through some free Stats Books on R.  In particular: [Introduction to Statistical Thought (free book uses R)](http://www.math.umass.edu/~lavine/Book/book.html) and [Introduction to Probability and Statistics Using R](http://ipsur.org/install.html)
