@@ -92,6 +92,34 @@ Python is coding as Guido ~~intended~~ **indented** it.
       <dd>- Either <code>True</code> or <code>False</code></dd>
     </dl>
   </li>
+  <li>
+    <dl>
+      <dt>str</dt>
+      <dd>- immutable sequence of Unicode <a href="http://en.wikipedia.org/wiki/Code_point">codepoints</a></dd>
+    </dl>
+  </li>
+  <li>
+    <dl>
+      <dt>bytes</dt>
+      <dd>- immutable sequence of bytes</dd>
+      <dd>- NOTE: Convert <code>str<\code> to <code>bytes<\code> with <code>encode()<\code></dd>
+      <dd>- NOTE: Convert <code>bytes<\code> to <code>str<\code> with <code>decode()<\code></dd>
+    </dl>
+  </li>
+  <li>
+    <dl>
+      <dt>list</dt>
+      <dd>- mutable heterogeneous sequence of objects</dd>
+      <dd>- NOTE: a list can end with a comma.  For example <code>[1, 2, 3,]</code></dd>
+    </dl>
+  </li>
+  <li>
+    <dl>
+      <dt>dict</dt>
+      <dd>- mutable mapping of keys to values</dd>
+      <dd>- NOTE: Known as an "Associative Array" in some languages</dd>
+    </dl>
+  </li>
 </ul>
 
 ```python
@@ -130,3 +158,5 @@ True
 - [while to run script more than once](https://github.com/dviar2718/DanWeb/blob/gh-pages/interests/python/sample_code/while_sum_digits.py)
 - You can break out of an infinite loop in the REPL with <code>Ctrl+C</code>
 - The <code>break</code> keyword terminates the innermost loop, transferring execution to the first statement after the loop.  Here is an [example](https://github.com/dviar2718/DanWeb/blob/gh-pages/interests/python/sample_code/while_with_break.py).
+- for loop is used to visit each item in a sequence
+- 
