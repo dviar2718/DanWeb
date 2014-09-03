@@ -100,6 +100,8 @@ http://c.learncodethehardway.org/book/ex9.html
 -------------------------------------
 
 # Completed
+####9/2/2014
+- Watch third modules of [Pluralsight - Python Fundamentals](http://pluralsight.com/training/Courses/Description/python-fundamentals)
 
 ####8/30/2014 - 9/1/2014
 - Started reading [Statistics in a Nutshell](http://shop.oreilly.com/product/9780596510497.do)
