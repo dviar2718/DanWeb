@@ -100,6 +100,11 @@ http://c.learncodethehardway.org/book/ex9.html
 -------------------------------------
 
 # Completed
+####9/3/2014
+- Finish 4th Chapter of [Kanban in Action](http://www.manning.com/hammarberg/)
+- Take a look at [Waking Up by Sam Harris](http://www.samharris.org/blog/item/chapter-one)
+- Listen to [Big Think - Michio Kaku: The Universe in a Nutshell](https://www.youtube.com/watch?v=0NbBjNiw4tk)
+
 ####9/2/2014
 - Watch third modules of [Pluralsight - Python Fundamentals](http://pluralsight.com/training/Courses/Description/python-fundamentals)
 
