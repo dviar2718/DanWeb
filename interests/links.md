@@ -71,7 +71,7 @@ http://c.learncodethehardway.org/book/ex9.html
 -------------------------------------
 
 #Statistics Books 
-- [Modern Statistics for the Social and Behavioral Sciences: A Practical Introduction](http://www.crcpress.com/product/isbn/9781439834565)
+- [Modern Statistics for the Social and Behavioral Sciences: A Practical Introduction](http://www.crcpress.com/product/isbn/9781439834565).  [Review of this book](http://www.maa.org/publications/maa-reviews/modern-statistics-for-the-social-and-behavioral-sciences-a-practical-introduction)
 - [Introduction to Statistical Thought (free book uses R)](http://www.math.umass.edu/~lavine/Book/book.html)
 - [Introduction to Probability and Statistics Using R](http://ipsur.org/install.html) or [here](http://cran.r-project.org/web/packages/IPSUR/vignettes/IPSUR.pdf) or [2nd Edition on GitHub](https://github.com/gjkerns/IPSUR)
 - [Learning Statistics Using R](http://www.amazon.com/Learning-Statistics-Randall-Ernest-Schumacker/dp/1452286299)
@@ -83,6 +83,8 @@ http://c.learncodethehardway.org/book/ex9.html
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers by Cam Davidson Pilon](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) On [GitHub](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 - [Statistics 4th Edition by Freedman](http://books.wwnorton.com/books/Statistics/)
 - [Introduction to Statistics Through Resampling Methods and R, 2nd Edition](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118428218.html)
+- [Computational Statistics Using R and R Studio An Introduction for Scientists](http://www.calvin.edu/~rpruim/talks/SC11/Seattle/RatSC11/Master-StatsForScience.pdf)
+- [Statistics Using R with Biological Examples](http://cran.r-project.org/doc/contrib/Seefeld_StatsRBio.pdf)
 
 
 
