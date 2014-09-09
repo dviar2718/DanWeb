@@ -102,6 +102,16 @@ http://c.learncodethehardway.org/book/ex9.html
 -------------------------------------
 
 # Completed
+####9/8/2014
+- [Advanced R](http://adv-r.had.co.nz/) by Hadley Wickham
+- [Mathematical Statistics with Resampling and R](https://sites.google.com/site/chiharahesterberg/home)
+- [Learning Statistics with R - A Tutorial for Psychology students and other beginners](http://health.adelaide.edu.au/psychology/ccs/teaching/lsr/) by Dan Navarro 2014
+- [Introductory R: A Beginner's Guide to Data Visualisation, Statistical Analysis and Programming using R](http://www.introductoryr.co.uk/)
+- [Introduction to Statistical Thinking (With R, Without Calculus)](http://pluto.huji.ac.il/~msby/StatThink/IntroStat.pdf) by Benjamin Yakir, The Hebrew University
+- [ChemWiki: The Dynamic Chemistry E-textbook](http://chemwiki.ucdavis.edu/)
+- [FOUNDATIONAL AND APPLIED STATISTICS FOR BIOLOGISTS USING R](http://www.isu.edu/~ahoken/book/) and [here](http://www.crcpress.com/product/isbn/9781439873380)
+- [Open Intro Statistics](http://www.openintro.org/stat/)
+
 ####9/3/2014
 - Finish 4th Chapter of [Kanban in Action](http://www.manning.com/hammarberg/)
 - Take a look at [Waking Up by Sam Harris](http://www.samharris.org/blog/item/chapter-one)
